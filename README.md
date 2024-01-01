@@ -55,6 +55,6 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact
-Your Name - Your Email
+Jawdat Abdullah - Jawdat.89@gmail.com
 
-Project Link: [https://github.com/your-github-username/your-repo-name](https://github.com/your-github-username/your-repo-name)
+Project Link: [https://github.com/jawdat89/ArabicHebrewToEnglishRename](https://github.com/jawdat89/ArabicHebrewToEnglishRename)
